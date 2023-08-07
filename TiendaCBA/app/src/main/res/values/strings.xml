@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TiendaCBA</string>
+    <string name="Productos">Productos</string>
+    <string name="Categorias">Categorias</string>
+    <string name="Frutas">Frutas</string>
+    <string name="Verduras">Verduras</string>
+    <string name="Lacteos">Lacteos</string>
+    <string name="Flores">Flores</string>
+    <string name="Huevos">Huevos</string>
+    <string name="Condimentos">Condimentos</string>
+    <string name="Manzana">Manzana</string>
+    <string name="Naranja">Naranja</string>
+    <string name="Mango">Mango</string>
+    <string name="Platano">Platano</string>De
+    <string name="Papa">Papa</string>
+    <string name="Yuca">Yuca</string>
+    <string name="Leche_Entera">Leche Entera</string>
+    <string name="Leche_Descremada">Leche Descremada</string>
+    <string name="Leche_Deslactosada">leche Deslactosada</string>
+    <string name="Rosas">Rosas</string>
+    <string name="Narciso">Narciso</string>
+    <string name="Jazmin">Jazmin</string>
+    <string name="Huevo_Blanco">Huevo Blanco</string>
+    <string name="Huevo_Marron">Huevo Marron</string>
+    <string name="Huevo_Codorniz">Huevo Codorniz</string>
+    <string name="Curcuma">Curcuma</string>
+    <string name="Comino">Comino</string>
+    <string name="Anis">Anis</string>
+    <string name="Canela">Canela</string>
+    <string name="Chili">Chili</string>
+    <string name="Inicio">INICIO</string>
+    <string name="Perfil">PERFIL</string>
+    <string name="Buscar">Buscar…</string>
+    <string name="Añadir">Añadir</string>
+</resources>
